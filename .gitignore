@@ -128,3 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .vscode
+.vscode
+videos/cam.avi
+videos/cam1.avi
+
