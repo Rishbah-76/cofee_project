@@ -132,3 +132,9 @@ dmypy.json
 videos/cam.avi
 videos/cam1.avi
 
+videos/cam1.avi
+
+coffeedAI/videos/rohin_rest.mov
+coffeedAI/videos/camAvi.avi
+coffeedAI/videos/*
+coffeedAI/videos/cam_best_92(89).avi
